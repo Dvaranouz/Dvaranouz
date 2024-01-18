@@ -3,9 +3,6 @@
 </div>
 
 
-[![dc](https://lanyard.kyrie25.me/api/861959239169474582)](https://discord.com/users/861959239169474582)
-
-
 ### Hi!👋 I'm Diaz
 - 👀 I’m interested in English and Japanese language
 - 🌱 I’m currently learning Flutter
