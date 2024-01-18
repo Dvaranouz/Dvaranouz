@@ -3,7 +3,7 @@
 </div>
 
 
-<a href="https://discord.com/users/861959239169474582"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/861959239169474582?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+[![dc](https://lanyard.kyrie25.me/api/861959239169474582)](https://discord.com/users/861959239169474582)
 
 
 ### Hi!👋 I'm Diaz
