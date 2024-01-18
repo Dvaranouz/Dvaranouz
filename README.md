@@ -1,4 +1,4 @@
-<div align="center">[sorasaki.jpg](https://github.com/Dvaranouz/Dvaranouz/blob/main/sorasaki.jpg)</div>
+
 
 
 ### Hi!👋 I'm Diaz
