@@ -7,11 +7,11 @@
 - 👀 I’m interested in English and Japanese language
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me dhiazcandra1@gmail.com
-- 😄 Pronouns: He/She XD
+- 😄 Pronouns: He
 
 ## *📊 Github Stats*
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dvaranouz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaranouz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"> ![Alt Text](https://github.com/Dvaranouz/image-3/blob/master/kisaki-ryuuge-kisaki.gif) <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dvaranouz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaranouz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +34,7 @@ Hehe~ another jawa has been caught.
 [![](https://img.shields.io/github/followers/Dvaranouz?label=Followers&style=social)](https://github.com/Dvaranouz)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/861959239169474582)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Dvaranuz)
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div align="center">
+    <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
+  </div>
