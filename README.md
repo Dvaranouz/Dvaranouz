@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me dhiazcandra1@gmail.com
 - 😄 Pronouns: He
-- ![kisaki-ryuuge](https://github.com/Dvaranouz/image-3/blob/master/kisaki-ryuuge-kisaki.gif)
 
 ## *📊 Github Stats*
 
