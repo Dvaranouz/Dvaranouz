@@ -31,10 +31,11 @@ Hehe~ another jawa has been caught.
 [![](https://github-profile-trophy.vercel.app/?username=Dvaranouz)](https://github.com/Dvaranouz/github-profile-trophy)
 
 
-[![](https://img.shields.io/github/followers/Dvaranouz?label=Followers&style=social)](https://github.com/Dvaranouz)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/861959239169474582)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Dvaranuz)
+
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div align="center">
     <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
   </div>
+  [![](https://img.shields.io/github/followers/Dvaranouz?label=Followers&style=social)](https://github.com/Dvaranouz)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/861959239169474582)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Dvaranuz)
