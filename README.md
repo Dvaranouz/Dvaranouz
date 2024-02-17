@@ -5,7 +5,7 @@
 - 👀 I’m interested in English and Japanese language
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me dhiazcandra1@gmail.com
-- 😄 Pronouns: She?, maybe
+- 😄 Pronouns: He/Him
 
 ## *📊 Github Stats*
 
